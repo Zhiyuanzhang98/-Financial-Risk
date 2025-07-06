@@ -1,3 +1,6 @@
+(dm me for the data)
+
+
 Overview:
 
 This report is based on the "Exploratory Analytical Research Report on Predicting User Loan Defaults by Internet Financial Risk Control Based on Big Data Technology", which aims to explore how to predict the risk of loan defaults in Internet finance using big data technology.The report analyses in detail the key aspects of the research background, technologies used, data sources, data processing, feature engineering, machine learning model building, prediction and model evaluation.By comparing the differences between traditional financial risk control and big data risk control, it describes the application of big data risk control in Internet finance, and shows how to predict loan defaults more effectively through specific data analysis, feature engineering and machine learning model building, with a view to providing lending companies with a more accurate means of risk control.
